@@ -52,7 +52,7 @@ public class AutomationPage {
     @FindBy (xpath = "//a[text()='Continue']")
     public WebElement continButton;
     
-
+// bu projeyi githuba gönderelim değilmi olur hocam ugrastım baglamadı biraz once
 }
 
 
